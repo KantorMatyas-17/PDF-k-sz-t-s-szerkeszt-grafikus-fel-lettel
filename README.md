@@ -1,0 +1,1 @@
+Felhasználó barát egyszerű grafikus felületet jelenít meg, amelybe szöveget tudunk begépelni amit PDF-ként tudunk menteni. A grafikus felületen van lehetőségünk már meglévö PDF szerkesztésére illetve képet is tudunk a PDF-hez hozzá adni. 
